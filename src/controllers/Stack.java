@@ -1,6 +1,7 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
 package controllers;
-import java.util.EmptyStackException;
 
+import java.util.EmptyStackException;
 import models.Node;
 
 public class Stack {
@@ -49,3 +50,4 @@ public class Stack {
     
 
 }
+ 
